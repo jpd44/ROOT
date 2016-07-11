@@ -15,6 +15,10 @@ This better be something I don't already know:<br/>
 <p>&nbsp;<p>
 
 <a href="helloworld.cfm">Try again</a>
+<p>&nbsp;<p>
+
+<cfinclude template="footer.cfm">
+
 </body>
 </html>
 

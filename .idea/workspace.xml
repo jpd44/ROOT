@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="from idea">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ROOT.iws" />
@@ -80,6 +79,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="jpd44" />
         <option value="John Dixon" />
       </list>
     </option>
@@ -565,6 +565,13 @@
       <option name="number" value="Default" />
       <updated>1468259952903</updated>
     </task>
+    <task id="LOCAL-00001" summary="from idea">
+      <created>1468261060505</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1468261060505</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">

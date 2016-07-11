@@ -14,7 +14,7 @@ This better be something I don't already know:<br/>
 </cfoutput>
 <p>&nbsp;<p>
 
-<a href="helloworld.cfm">Try again</a>
+<a href="/index.cfm">Try again</a>
 <p>&nbsp;<p>
 
 <cfinclude template="footer.cfm">

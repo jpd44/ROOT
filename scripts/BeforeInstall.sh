@@ -1,3 +1,8 @@
 #!/bin/bash
 
-echo echo "`date`: BeforeInstall fired!" >> /tmp/ROOT.log
+# clean the deployment log
+rm /tmp/ROOT.log
+
+# create a timestamp so that we know this script ran
+echo "`date`: BeforeInstall fired!" >> /tmp/ROOT.log
+

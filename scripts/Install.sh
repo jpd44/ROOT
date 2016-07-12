@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo echo "`date`: Install fired!" >> /tmp/ROOT.log
+echo "`date`: Install fired!" >> /tmp/ROOT.log

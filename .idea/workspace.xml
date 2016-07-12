@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="Added table to footer">
+    <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="Adjusted processor.cfm">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ebextensions/environment.config" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processor.cfm" afterPath="$PROJECT_DIR$/processor.cfm" />
     </list>
     <ignored path="ROOT.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.cfm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.cfm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AfterInstall.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/AfterInstall.sh">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,11 +65,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="processor.cfm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="processor.cfm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/processor.cfm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5804481">
+            <state vertical-scroll-proportion="0.0">
               <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="environment.config" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.ebextensions/environment.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.032119915">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -154,6 +154,7 @@
         <option value="$PROJECT_DIR$/scripts/ValidateService.sh" />
         <option value="$PROJECT_DIR$/templates/footer.cfm" />
         <option value="$PROJECT_DIR$/processor.cfm" />
+        <option value="$PROJECT_DIR$/.ebextensions/environment.config" />
       </list>
     </option>
   </component>
@@ -218,21 +219,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ROOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ROOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
+              <option name="myItemId" value=".ebextensions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -705,7 +692,13 @@
       <option name="project" value="LOCAL" />
       <updated>1468334329823</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adjusted processor.cfm">
+      <created>1468334599259</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1468334599259</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -751,7 +744,8 @@
     <MESSAGE value="from idea" />
     <MESSAGE value="updated footer and appspec" />
     <MESSAGE value="Added table to footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added table to footer" />
+    <MESSAGE value="Adjusted processor.cfm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjusted processor.cfm" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -913,8 +907,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/processor.cfm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5804481">
+        <state vertical-scroll-proportion="0.0">
           <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ebextensions/environment.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.032119915">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
           <folding />
         </state>
       </provider>

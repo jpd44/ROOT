@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "`date`: DownloadBundle fired!" >> /tmp/ROOT.log
+echo "`date`: DownloadBundle ----------" >> /tmp/ROOT.log
+
+echo "" >> /tmp/ROOT.log

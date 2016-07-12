@@ -4,5 +4,7 @@
 rm /tmp/ROOT.log
 
 # create a timestamp so that we know this script ran
-echo "`date`: BeforeInstall fired!" >> /tmp/ROOT.log
+echo "`date`: BeforeInstall ----------" >> /tmp/ROOT.log
+
+echo "" >> /tmp/ROOT.log
 

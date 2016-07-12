@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "`date`: ApplicationStop fired!" >> /tmp/ROOT.log
+echo "`date`: ApplicationStop ----------" >> /tmp/ROOT.log
+
+echo "" >> /tmp/ROOT.log

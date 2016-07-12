@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="updated footer and appspec">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/AfterInstall.sh" afterPath="$PROJECT_DIR$/scripts/AfterInstall.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ApplicationStart.sh" afterPath="$PROJECT_DIR$/scripts/ApplicationStart.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ApplicationStop.sh" afterPath="$PROJECT_DIR$/scripts/ApplicationStop.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/BeforeInstall.sh" afterPath="$PROJECT_DIR$/scripts/BeforeInstall.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/DownloadBundle.sh" afterPath="$PROJECT_DIR$/scripts/DownloadBundle.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/Install.sh" afterPath="$PROJECT_DIR$/scripts/Install.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ValidateService.sh" afterPath="$PROJECT_DIR$/scripts/ValidateService.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/footer.cfm" afterPath="$PROJECT_DIR$/templates/footer.cfm" />
     </list>
     <ignored path="ROOT.iws" />
@@ -75,8 +68,8 @@
       <file leaf-file-name="footer.cfm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/footer.cfm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21384929">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.305499">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -694,7 +687,13 @@
       <option name="project" value="LOCAL" />
       <updated>1468332196345</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated footer and appspec">
+      <created>1468333919689</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1468333919689</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -901,8 +900,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/footer.cfm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21384929">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.305499">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>

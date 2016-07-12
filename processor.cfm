@@ -17,7 +17,7 @@ This better be something I don't already know:<br/>
 <a href="/index.cfm">Try again</a>
 <p>&nbsp;<p>
 
-<cfinclude template="footer.cfm">
+<cfinclude template="/templates/footer.cfm">
 
 </body>
 </html>

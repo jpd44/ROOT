@@ -3,7 +3,7 @@
 <title>Tell Me Something</title>
 </head>
 
-<body>
+<body bgcolor="#1655EC">
 <cfset myVar=123>
 <cfset anotherVar=321>
 <cfset sum=myVar+anotherVar>

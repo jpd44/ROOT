@@ -7,7 +7,7 @@
 <!-- <body bgcolor="#20EC16"> -->
 
 
-<body>
+<body bgcolor="#c0c0c0">
 
 <cfset myVar=123>
 <cfset anotherVar=321>

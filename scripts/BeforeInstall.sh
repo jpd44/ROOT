@@ -9,7 +9,7 @@ echo "`date`: BeforeInstall ----------" >> /tmp/ROOT.log
 # clean the webapps directory
 echo -n "Cleaning webapps directory... " >> /tmp/ROOT.log
 rm -Rvf /opt/lucee/tomcat/webapps/ROOT
-echo "done." >> /tmp/root.log
+echo "done." >> /tmp/ROOT.log
 
 echo "" >> /tmp/ROOT.log
 

@@ -92,6 +92,11 @@ hooks:
       runas: root
 # During the AfterInstall deployment lifecycle event, run the commands
 #   in the script specified in "location".
+  Install:
+    - location: scripts/Install.sh
+      timeout: 300
+      runas: root
+
   AfterInstall:
     - location: scripts/AfterInstall.sh
       timeout: 300

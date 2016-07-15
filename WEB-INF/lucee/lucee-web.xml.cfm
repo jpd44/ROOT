@@ -31,6 +31,7 @@ Path placeholders:
 <!--	or ask your database distributor 																-->
 
 	<data-sources>
+
 	</data-sources>
 	
 	<resources>

@@ -4,10 +4,10 @@
 </head>
 
 <body>
-This better be something I don't already know:<br/>
+Zip code to city lookup:<br/>
 <cfoutput>
 	<cfif isDefined("form.tellme")>
-		<i>#form.tellme#</i>
+		<i>#form.zipcode#</i>
 	<cfelse>
 		No form variables received
 	</cfif>

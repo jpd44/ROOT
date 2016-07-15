@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="Commented index page again">
+    <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="Adjusted index page to work with zip codes">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application.cfc" afterPath="$PROJECT_DIR$/Application.cfc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/lucee/lucee-web.xml.cfm" afterPath="$PROJECT_DIR$/WEB-INF/lucee/lucee-web.xml.cfm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.cfm" afterPath="$PROJECT_DIR$/index.cfm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processor.cfm" afterPath="$PROJECT_DIR$/processor.cfm" />
     </list>
     <ignored path="ROOT.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,7 +133,9 @@
         <option value="John Dixon" />
       </list>
     </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="FORCE_PUSH_ALLOWED" value="true" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -290,7 +288,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.ChangelistConflict" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -722,7 +720,13 @@
       <option name="project" value="LOCAL" />
       <updated>1468588125812</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Adjusted index page to work with zip codes">
+      <created>1468596907681</created>
+      <option name="number" value="00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1468596907681</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -781,7 +785,8 @@
     <MESSAGE value="Changed body background" />
     <MESSAGE value="Commented index page" />
     <MESSAGE value="Commented index page again" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commented index page again" />
+    <MESSAGE value="Adjusted index page to work with zip codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjusted index page to work with zip codes" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

@@ -3,7 +3,6 @@
 <title>CSX POC</title>
 </head>
 
-!-- <body bgcolor="#1655EC"> -->
 <body>
 
 <!-- syntax to set variables -->

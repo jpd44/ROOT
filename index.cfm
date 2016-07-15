@@ -1,10 +1,10 @@
 <html>
 <head>
-<title>Tell Me Something</title>
+<title>CSX POC</title>
 </head>
 
-<!-- <body bgcolor="#1655EC"> -->
-<body>
+<body bgcolor="#1655EC">
+<!-- <body> -->
 
 <!-- syntax to set variables -->
 <cfset myVar=123>

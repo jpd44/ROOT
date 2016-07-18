@@ -5,7 +5,7 @@
 
 <body>
 
-Zip code to city lookup:<br/>
+Zip code lookup:<br/>
 
 <cfoutput>
 	<cfif isDefined("form.zipcode")>

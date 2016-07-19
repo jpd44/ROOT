@@ -17,7 +17,7 @@
 <p>&nbsp;<p>
 
 <cfquery name="specificZipCode" datasource="zipcodes">
-    SELECT * FROM zipcodes WHERE Zipcode=<cfqueryparam value="#form.zipcode" cfsqltype="cf_sql_varchar"/> LIMIT 10
+    SELECT * FROM zipcodes WHERE Zipcode=<cfqueryparam value="#form.zipcode#" cfsqltype="cf_sql_varchar"/> LIMIT 10
 </cfquery>
 
 <cfdump var="specificZipCode#"/>

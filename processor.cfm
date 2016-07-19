@@ -20,7 +20,8 @@
     SELECT * FROM zipcodes WHERE Zipcode=<cfqueryparam value="#form.zipcode#" cfsqltype="cf_sql_varchar"/> LIMIT 10
 </cfquery>
 
-<cfdump var="specificZipCode#"/>
+cfdump output:
+<cfdump var="#specificZipCode#"/>
 
 <p>&nbsp;<p>
 <a href="/index.cfm">Back to form</a>

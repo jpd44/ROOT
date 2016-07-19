@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="introduced cfqueryparm">
+    <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="introduced cfqueryparm (corrected sql)">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processor.cfm" afterPath="$PROJECT_DIR$/processor.cfm" />
     </list>
@@ -68,8 +68,8 @@
       <file leaf-file-name="processor.cfm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/processor.cfm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31623933">
-              <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+            <state vertical-scroll-proportion="0.8119658">
+              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -778,7 +778,13 @@
       <option name="project" value="LOCAL" />
       <updated>1468896307260</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="introduced cfqueryparm (corrected sql)">
+      <created>1468896582522</created>
+      <option name="number" value="00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1468896582522</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -841,7 +847,8 @@
     <MESSAGE value="Added database query" />
     <MESSAGE value="Added database query, cfdump for ugly output" />
     <MESSAGE value="introduced cfqueryparm" />
-    <option name="LAST_COMMIT_MESSAGE" value="introduced cfqueryparm" />
+    <MESSAGE value="introduced cfqueryparm (corrected sql)" />
+    <option name="LAST_COMMIT_MESSAGE" value="introduced cfqueryparm (corrected sql)" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1231,8 +1238,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/processor.cfm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31623933">
-          <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+        <state vertical-scroll-proportion="0.8119658">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
           <folding />
         </state>
       </provider>

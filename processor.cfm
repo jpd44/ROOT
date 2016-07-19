@@ -16,11 +16,11 @@
 </cfoutput>
 <p>&nbsp;<p>
 
-<cfquery name="myFirstSelect" datasource="zipcodes">
-    SELECT * FROM zipcodes LIMIT 100
+<cfquery name="specificZipCode" datasource="zipcodes">
+    SELECT * FROM zipcodes WHERE Zipcode=<cfqueryparam value="#form.zipcode" cfsqltype="cf_sql_varchar"/> LIMIT 10
 </cfquery>
 
-<cfdump var="#myFirstSelect#"/>
+<cfdump var="specificZipCode#"/>
 
 <p>&nbsp;<p>
 <a href="/index.cfm">Back to form</a>

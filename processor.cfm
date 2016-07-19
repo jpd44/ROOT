@@ -20,12 +20,7 @@
     SELECT * FROM zipcodes LIMIT 100
 </cfquery>
 
-<cfset myQuery=queryNew("myFirstSelect")>
-<cfset queryAddRow(myQuery)>
-<cfset querySetCell(myQuery,"myFirstSelect","value one in column one")>
-<cfloop query="myQuery">
-    <cfoutput>#myQuery.myFirstSelect#</cfoutput><br/>
-</cfloop>
+<cfdump var="#myFirstSelect#"/>
 
 <p>&nbsp;<p>
 <a href="/index.cfm">Back to form</a>

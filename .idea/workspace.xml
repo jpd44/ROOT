@@ -68,8 +68,8 @@
       <file leaf-file-name="processor.cfm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/processor.cfm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52991456">
-              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.35897437">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -164,8 +164,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="144" />
-    <option name="y" value="57" />
+    <option name="x" value="80" />
+    <option name="y" value="33" />
     <option name="width" value="1043" />
     <option name="height" value="658" />
   </component>
@@ -760,11 +760,17 @@
       <option name="project" value="LOCAL" />
       <updated>1468894139224</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added database query">
+      <created>1468894898318</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1468894898318</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="144" y="57" width="1043" height="658" extended-state="0" />
+    <frame x="80" y="33" width="1043" height="658" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1211,8 +1217,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/processor.cfm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52991456">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.35897437">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding />
         </state>
       </provider>

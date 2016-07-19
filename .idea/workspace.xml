@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="Adjusted index page to work with zip codes">
+    <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="Added database query">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processor.cfm" afterPath="$PROJECT_DIR$/processor.cfm" />
     </list>
@@ -69,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/processor.cfm">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.52991456">
-              <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -754,7 +754,13 @@
       <option name="project" value="LOCAL" />
       <updated>1468893381958</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Added database query">
+      <created>1468894139224</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1468894139224</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -814,7 +820,8 @@
     <MESSAGE value="Commented index page" />
     <MESSAGE value="Commented index page again" />
     <MESSAGE value="Adjusted index page to work with zip codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjusted index page to work with zip codes" />
+    <MESSAGE value="Added database query" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added database query" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1205,7 +1212,7 @@
     <entry file="file://$PROJECT_DIR$/processor.cfm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52991456">
-          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
           <folding />
         </state>
       </provider>

@@ -24,7 +24,7 @@
 <cfset queryAddRow(myQuery)>
 <cfset querySetCell(myQuery,"myFirstSelect","value one in column one")>
 <cfloop query="myQuery">
-    <cfoutput>#myQuery.columnOne#</cfoutput><br/>
+    <cfoutput>#myQuery.myFirstSelect#</cfoutput><br/>
 </cfloop>
 
 <p>&nbsp;<p>

@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Zipcode Lookup</title>
+<title>Zipcode Lookup v1.0</title>
 </head>
 
 <body>

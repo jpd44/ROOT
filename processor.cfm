@@ -7,7 +7,7 @@
 
 <cfoutput>
 	<cfif isDefined("form.zipcode")>
-		<i>#form.zipcode#</i>
+		Query: <i>#form.zipcode#</i>
 	<cfelse>
 		No form variables received
 	</cfif>
@@ -15,7 +15,7 @@
 <p>&nbsp;<p>
 
 <cfquery name="specificZipCode" datasource="zipcodes">
-    SELECT * FROM zipcodes WHERE Zipcode=<cfqueryparam value="#form.zipcode#" cfsqltype="cf_sql_varchar"/> LIMIT 10
+    SELECT RecordNumber,Zipcode,ZipCodeType,City,State,LocationType,Country FROM zipcodes WHERE Zipcode=<cfqueryparam value="#form.zipcode#" cfsqltype="cf_sql_varchar"/> LIMIT 10
 </cfquery>
 
 Result:

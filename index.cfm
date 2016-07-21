@@ -15,7 +15,7 @@ The sum of myVar and anotherVar is <cfoutput><b>#sum#</b></cfoutput>
 -->
 
 <form method="POST" action="processor.cfm">
-<input type="text" name="zipcode" size="10" value="Enter a zip code"/>
+<input type="text" name="zipcode" size="15" value="Zip code"/>
 
 <input type="submit"/>
 </form>

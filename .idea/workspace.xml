@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="Minor update to index page">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allzipcodes.cfm" />
+    <list default="true" id="84688120-054f-4890-b459-d213bd12f8b4" name="Default" comment="Added all zip codes page">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allzipcodes.cfm" afterPath="$PROJECT_DIR$/allzipcodes.cfm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.cfm" afterPath="$PROJECT_DIR$/index.cfm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processor.cfm" afterPath="$PROJECT_DIR$/processor.cfm" />
     </list>
@@ -61,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/index.cfm">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -71,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/processor.cfm">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -80,8 +80,8 @@
       <file leaf-file-name="allzipcodes.cfm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/allzipcodes.cfm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48681542">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.36511156">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -160,9 +160,9 @@
         <option value="$PROJECT_DIR$/scripts/BeforeInstall.sh" />
         <option value="$PROJECT_DIR$/WEB-INF/lucee/lucee-web.xml.cfm" />
         <option value="$PROJECT_DIR$/Application.cfc" />
-        <option value="$PROJECT_DIR$/allzipcodes.cfm" />
         <option value="$PROJECT_DIR$/index.cfm" />
         <option value="$PROJECT_DIR$/processor.cfm" />
+        <option value="$PROJECT_DIR$/allzipcodes.cfm" />
       </list>
     </option>
   </component>
@@ -875,7 +875,13 @@
       <option name="project" value="LOCAL" />
       <updated>1469060244346</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Added all zip codes page">
+      <created>1469106986093</created>
+      <option name="number" value="00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1469106986093</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -941,7 +947,8 @@
     <MESSAGE value="introduced cfqueryparm (corrected sql)" />
     <MESSAGE value="cf code correction" />
     <MESSAGE value="Minor update to index page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor update to index page" />
+    <MESSAGE value="Added all zip codes page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all zip codes page" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1316,7 +1323,7 @@
     <entry file="file://$PROJECT_DIR$/index.cfm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1324,15 +1331,15 @@
     <entry file="file://$PROJECT_DIR$/processor.cfm">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/allzipcodes.cfm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48681542">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.36511156">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding />
         </state>
       </provider>

@@ -5,8 +5,6 @@
 
 <body>
 
-<h1>Zip Code Tool</h1>
-
 <cfoutput>
 	<cfif isDefined("form.zipcode")>
 		<i>#form.zipcode#</i>
@@ -20,7 +18,7 @@
     SELECT * FROM zipcodes WHERE Zipcode=<cfqueryparam value="#form.zipcode#" cfsqltype="cf_sql_varchar"/> LIMIT 10
 </cfquery>
 
-cfdump output:
+Result:
 <cfdump var="#specificZipCode#"/>
 
 <p>&nbsp;<p>

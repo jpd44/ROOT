@@ -5,15 +5,12 @@
 
 <body>
 
-<h1>Zip Code Tool</h1>
-
-<p>&nbsp;<p>
 
 <cfquery name="allZipCodes" datasource="zipcodes">
     SELECT * FROM zipcodes
 </cfquery>
 
-cfdump output:
+Result:
 <cfdump var="#allZipCodes#"/>
 
 <p>&nbsp;<p>

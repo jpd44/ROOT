@@ -24,7 +24,7 @@ cfdump output:
 <cfdump var="#specificZipCode#"/>
 
 <p>&nbsp;<p>
-<a href="/index.cfm">Back to form</a>
+<a href="/index.cfm">Back to lookup page</a>
 <p>&nbsp;<p>
 
 <cfinclude template="/templates/footer.cfm">

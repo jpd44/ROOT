@@ -21,6 +21,9 @@ The sum of myVar and anotherVar is <cfoutput><b>#sum#</b></cfoutput>
 <input type="submit"/>
 </form>
 
+<p>&nbsp;<p>
+See a list of <a href="/allzipcodes.cfm">all zip codes in the United States</a>
+
 <cfinclude template="/templates/footer.cfm">
 
 </body>

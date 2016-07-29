@@ -25,7 +25,7 @@ Result:
 <a href="/index.cfm">Back to lookup page</a>
 <p>&nbsp;<p>
 
-<!-- <cfinclude template="/templates/footer.cfm"> -->
+<cfinclude template="/templates/footer.cfm">
 
 </body>
 </html>

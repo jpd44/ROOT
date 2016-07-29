@@ -13,7 +13,7 @@
 
 <p>&nbsp;<p>
 
-<cfinclude template="/templates/footer.cfm">
+<!-- <cfinclude template="/templates/footer.cfm"> -->
 
 </body>
 </html>

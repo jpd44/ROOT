@@ -10,7 +10,7 @@
     SELECT * FROM zipcodes
 </cfquery>
 
-Result:
+Result set:
 <cfdump var="#allZipCodes#"/>
 
 <p>&nbsp;<p>

@@ -2,7 +2,7 @@
 <cfhttp result="sInstance_id" method="GET" charset="utf-8" url="http://169.254.169.254/latest/meta-data/instance-id"/>
 
 
-<table border="1" bgcolor="#009100">
+<table border="1" bgcolor="#c0c0c0">
 
 <tr>
 <td>
